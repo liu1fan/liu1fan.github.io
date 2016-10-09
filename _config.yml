@@ -6,7 +6,7 @@ url: http://liu1fan.github.io
 resume_site: #http://www.hifreud.com/Resume.io/
 github: https://github.com/liu1fan/
 baseurl: ""
-description: Actually, less is more!
+description:  I think, therefore I am.
 meta_description: 刘一帆;个人博客;
 motto: It's our wits that make us men.
 banner: Stay Hungry, Stay Foolish.
@@ -29,7 +29,7 @@ FB:
     duoshuo:
         short_name : liu1fan
     disqus :
-        short_name : freudkang
+        short_name : #freudkang
     # facebook :
     #   appid : 123
     #   num_posts: 5
